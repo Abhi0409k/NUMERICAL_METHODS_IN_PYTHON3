@@ -4,8 +4,9 @@ Below are the list of few important and fundamental numerical methods codes in p
 Feel free to contact if facing any difficulty.
 
 The references are as follows: 
-1. Numerical methods for Engineers (7th Edition) - Steven C Chapra, and 
-2. Everything else (will mention specifically for specific methods #see the code files).
+1. Numerical methods for Engineers (7th Edition) - Steven C Chapra, 
+2. Introduction to Numerical Analysis (2nd Edition) - J.Stoer,R.Bulirsch and 
+3. Everything else (will mention specifically for specific methods #see the code files).
 
 Contents 
 1. Linear Algebric Equations
