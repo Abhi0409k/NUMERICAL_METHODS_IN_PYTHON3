@@ -10,8 +10,8 @@ The references are as follows:
 
 Contents 
 1. Linear Algebric Equations 
-  ***(While giving imput matrix always give the whole augmented matrix cuz the main purpose is to get solutions)***
+                       ***(While giving imput matrix always give the whole augmented matrix cuz the main purpose is to get solutions)***
    1. Gauss elimination (Pivoting, Scaling)
    2. Gauss Jordan (Pivoting, Scaling)
    3. LU decomposition (Do-Little)
-   4. LU decomposition (Cholesky) ***(Give seperate inputs)***
+   4. LU decomposition (Cholesky)         ***(Give seperate inputs)***
