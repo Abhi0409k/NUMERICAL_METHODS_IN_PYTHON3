@@ -9,7 +9,8 @@ The references are as follows:
 3. Everything else (will mention specifically for specific methods #see the code files).
 
 Contents 
-1. Linear Algebric Equations
+1. Linear Algebric Equations 
+  ***(While giving imput matrix always give the whole augmented matrix cuz the main purpose is to get solutions)***
    1. Gauss elimination (Pivoting, Scaling)
    2. Gauss Jordan (Pivoting, Scaling)
    3. LU decomposition (Do-Little)
